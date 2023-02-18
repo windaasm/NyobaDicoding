@@ -6,3 +6,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 
 * Winda,[linkedin](https://www.linkedin.com/in/windaasmarawati).
 * Dian, [Linkedin](https://www.linkedin.com/in/dianalhusari/).
+* aku dimana aja sih ih
