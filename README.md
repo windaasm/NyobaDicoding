@@ -1,6 +1,6 @@
-# NyobaDicoding
-Repo buat belajar git dan github di dicoding
+# Volunter Pembuatan Aplikasi
 
-**\* Nama Lengkap, [Tgl Lahir]Daerah)**
-
-* Winda, [07-07-2002](Bandung).
+Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan aplikasi Dicoding. Jika Anda tertarik untuk menjadi Volunter, silakan lakukan PR(pull-request) pada berkas ini ya. Silakan gunakan format berikut:
+* Winda,[linkedin](https://www.linkedin.com/in/windaasmarawati).
+* Dian, [Linkedin](https://www.linkedin.com/in/dianalhusari/).
+* aku dimana aja sih ih
